@@ -8,7 +8,7 @@ Features:
 - Provides navigation links for easy access to different sections of the website.
 
 Installation:
-1. Clone the repository: git clone https://github.com/your_username/your_repository.git
+1. Clone the repository: git clone https://github.com/rama7530/project_group_10.git
 2. Install dependencies: pip install -r requirements.txt
 
 Usage:
