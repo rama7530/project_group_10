@@ -20,3 +20,5 @@ Contributing:
 - Fork the repository and create a new branch for your feature or bug fix.
 - Submit a pull request with your changes for review.
 - Follow coding standards and guidelines outlined in the project.
+
+Note: Change the base_path = pathlib.Path(r'C:\Users\ramak\OneDrive\Desktop\Project_files') to path where the file is stored on your computer.
